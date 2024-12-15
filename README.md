@@ -49,6 +49,7 @@ Through this project:
 -I learned how to create Json-Placeholder-API-AJAX in js.
 - how to get All Posts , get All Users .
 - how to get All Posts For Spacific User after clicked on this post
+- create function that create an element to add it to DOM
 - how to collect between html,css and Js file.
 - how to push it on github + gh-pages
 
